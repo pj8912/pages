@@ -1,6 +1,8 @@
-## Welcome to Pinto Pages
-
+<center>## Welcome to Pinto Pages
 Just My Pages
+
+</center>
+
 
 ### Markdown
 
