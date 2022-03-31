@@ -1,7 +1,12 @@
+<style>
+ul li{
+  list-style:none;
+  }  
+</style>
 <center>
   <h1>Welcome to Pinto Pages</h1>
 Just My Pages
-  <hr>
+  <Br> <Br> <Br> <Br>
   
   <h2>My Projects</h2>
   <hr>
