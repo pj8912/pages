@@ -3,7 +3,8 @@ ul li{
   list-style:none;
   }  
 </style>
-<center>![59218902](https://user-images.githubusercontent.com/59218902/161141449-5813c174-5642-48d8-8a56-1f6731423b7d.jpg)
+<center>
+  [59218902](https://user-images.githubusercontent.com/59218902/161141449-5813c174-5642-48d8-8a56-1f6731423b7d.jpg)
 
   
   <h1>Welcome to Pinto Pages</h1>
