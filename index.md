@@ -56,21 +56,7 @@ Notes application built using php and uses sqlite for storage. Added media suppo
     
     </div>
     
-    <!-- <ul>
-    <li><a href="https://github.com/pj8912/notesapp">
-      NotesApp      
-      </a></li>
-    
-  <li><a href="https://github.com/pj8912/Caap">
-      Caap
-      </a></li>
-    
-    <li><a href="https://github.com/pj8912/PintoMVC">
-      PintoMVC
-      </a></li>
-    
-    
-  </ul> -->
+   
     
   
     </div>
